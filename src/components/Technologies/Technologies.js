@@ -19,7 +19,8 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Skills</SectionTitle>
-    <SectionText>
+    <SectionText>dsjfhdjsj</SectionText>
+    <List>
       <ListItem>
         <DiFirebase size="3rem" />
         <ListContainer>
@@ -27,7 +28,21 @@ const Technologies = () => (
           <ListParagraph>Experience</ListParagraph>
         </ListContainer>
       </ListItem>
-    </SectionText>
+      <ListItem>
+        <DiFirebase size="3rem" />
+        <ListContainer>
+          <ListTitle>Front-End</ListTitle>
+          <ListParagraph>Experience</ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiFirebase size="3rem" />
+        <ListContainer>
+          <ListTitle>Front-End</ListTitle>
+          <ListParagraph>Experience</ListParagraph>
+        </ListContainer>
+      </ListItem>
+    </List>
   </Section>
 );
 
