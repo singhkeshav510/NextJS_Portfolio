@@ -31,14 +31,42 @@ const Technologies = () => (
       <ListItem>
         <DiFirebase size="3rem" />
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Back-End</ListTitle>
           <ListParagraph>Experience</ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiFirebase size="3rem" />
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Cloud</ListTitle>
+          <ListParagraph>Experience</ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiFirebase size="3rem" />
+        <ListContainer>
+          <ListTitle>DataBases</ListTitle>
+          <ListParagraph>Experience</ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiFirebase size="3rem" />
+        <ListContainer>
+          <ListTitle>Devops</ListTitle>
+          <ListParagraph>Experience</ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiFirebase size="3rem" />
+        <ListContainer>
+          <ListTitle>Languages</ListTitle>
+          <ListParagraph>Experience</ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiFirebase size="3rem" />
+        <ListContainer>
+          <ListTitle>Development Tools</ListTitle>
           <ListParagraph>Experience</ListParagraph>
         </ListContainer>
       </ListItem>
